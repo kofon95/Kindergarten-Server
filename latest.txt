@@ -1,1 +1,2 @@
-/installers/3.0.0.1
+3.0.0.1
+https://kofon95.github.io/Kindergarten-Server/installers/3.0.0.1.exe
